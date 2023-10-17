@@ -1,0 +1,2 @@
+# xgpu
+xenminer
